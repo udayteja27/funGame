@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore binary files
+*.exe
+*.dll
+
+# Ignore build output
+/bin/
+/node_modules
